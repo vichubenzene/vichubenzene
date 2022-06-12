@@ -50,5 +50,5 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vichubenzene&theme=black-ice)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichubenzene&theme=black-ice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vichubenzene&theme=black-ice&hide_border=true)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichubenzene&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
