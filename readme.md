@@ -23,7 +23,7 @@
 
 - :zap: In my free time, I do leet code
 
-- :mailbox:Reach me: [![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)]
+- :mailbox:Reach me: ![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)
 
 ### 🪡 Skills :
 
