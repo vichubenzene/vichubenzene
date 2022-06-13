@@ -25,9 +25,9 @@
 
 - :mailbox:Reach me: [![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)]
 
-### :hammer_and_wrench: Skills :
+### 🪡 Skills :
 
-<h4>      👔 Intermediate </h4>
+<h5>      👔 Intermediate </h5>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="c" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@
 
 </div>
 
-<h4>      👕 Beginner </h4>
+<h5>      👕 Beginner </h5>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
