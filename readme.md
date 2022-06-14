@@ -20,7 +20,7 @@
 </div>
 
 ### :man_technologist: About Me :
--  I am a Upcoming Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+-  👨‍🎓 Upcoming Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Currently pursing my B.tech on Amrita School of engineering
 
 - :seedling: Exploring Technical Content Writing.
