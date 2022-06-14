@@ -1,8 +1,10 @@
-# Viswanathan S (@BENZENE)
+# Viswanathan S <h3>@BENZENE</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+       <a href="https://leetcode.com/BENZENE_KUN/">
+         <img src="https://img.shields.io/badge/leetcode-gold?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode Badge"/>
       <a href="https://discord.gg/gZbUXsvqMZ">
          <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
       <a href="https://www.hackerrank.com/B3NZENE">
@@ -18,12 +20,12 @@
 </div>
 
 ### :man_technologist: About Me :
--  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+-  I am a Upcoming Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Currently pursing my B.tech on Amrita School of engineering
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I do leet code
+- :zap: Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [hacker rank](https://www.hackerrank.com/B3NZENE) on my free time
 
 - :mailbox:Reach me: ![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)
 
