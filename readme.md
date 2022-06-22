@@ -29,7 +29,7 @@
 
 - :zap: Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [hacker rank](https://www.hackerrank.com/B3NZENE) on my free time
 
-- :mailbox:Reach me: ![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)
+- :mailbox:Reach me: <sub>![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)</sub>
 
 ### 🪡 Skills :
 
