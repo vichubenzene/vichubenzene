@@ -2,13 +2,14 @@
 <div id="header" align="center">
   <img src="https://imgur.com/Nf40izu.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
        <a href="https://leetcode.com/BENZENE_KUN/">
          <img src="https://img.shields.io/badge/leetcode-gold?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode Badge"/>
       <a href="https://discord.gg/gZbUXsvqMZ">
          <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
       <a href="https://www.hackerrank.com/B3NZENE">
-         <img src="https://img.shields.io/badge/hackerrank-lightgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank Badge"/>
+         <img src="https://img.shields.io/badge/hackerrank-1E9E1E?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank Badge"/>
   </a>
 </div>
 <div id="count" align="center">
