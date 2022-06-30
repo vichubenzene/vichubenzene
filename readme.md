@@ -20,16 +20,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 
-### <sub> <img src="https://cdn.discordapp.com/emojis/950698979987976222.webp?size=128&quality=lossless" width="25"></sub> About Me :
--  <sub> <img src="https://cdn.discordapp.com/emojis/907893628637163520.gif?size=56&quality=lossless" width="25"></sub> Upcoming Full Stack Developer from India.
+### <sub> <img src="https://cdn.discordapp.com/emojis/950698979987976222.webp?size=128&quality=lossless" width="22"></sub> About Me :
+-  <sub> <img src="https://cdn.discordapp.com/emojis/907893628637163520.gif?size=56&quality=lossless" width="20"></sub> Upcoming Full Stack Developer from India.
          
-- <sub> <img src="https://cdn.discordapp.com/emojis/945161070547456031.gif?size=128&quality=lossless" width="25"></sub> Currently pursing my B.tech on Computer and Communication Engineering 
+- <sub> <img src="https://cdn.discordapp.com/emojis/945161070547456031.gif?size=128&quality=lossless" width="20"></sub> Currently pursing my B.tech on Computer and Communication Engineering 
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/907894435151507477.gif?size=56&quality=lossless" width="25"></sub>  Exploring Technical Content Writing.
+- <sub> <img src="https://cdn.discordapp.com/emojis/907894435151507477.gif?size=56&quality=lossless" width="20"></sub>  Exploring Technical Content Writing.
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="25"></sub> Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [hacker rank](https://www.hackerrank.com/B3NZENE) on my free time
+- <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="20"></sub> Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [hacker rank](https://www.hackerrank.com/B3NZENE) on my free time
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="25"></sub> Reach me: <sub>![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)</sub>
+- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)</sub>
 
 ### 🪡 Skills :
 
