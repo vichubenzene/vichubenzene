@@ -27,13 +27,13 @@
 
 - <sub> <img src="https://cdn.discordapp.com/emojis/907894435151507477.gif?size=56&quality=lossless" width="20"></sub>  Exploring Technical Content Writing.
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="20"></sub> Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [hacker rank](https://www.hackerrank.com/B3NZENE) on my free time
+- <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="20"></sub> Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [Hackerrank](https://www.hackerrank.com/B3NZENE) on my free time
 
 - <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)</sub>
 
-### 🪡 Skills :
+### <sub> <img src ="https://cdn.discordapp.com/emojis/872053560236445716.gif" width="25"> </sub> Skills :
 
-<h5>      👔 Intermediate </h5>
+<h5>    <sub> <img src ="https://cdn.discordapp.com/emojis/879888953170346034.gif?size=128&quality=lossless" width="20"> </sub> Intermediate </h5>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="c" alt="Python" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@
 
 </div>
 
-<h5>      👕 Beginner </h5>
+<h5>     <sub> <img src ="https://cdn.discordapp.com/emojis/879888953170346034.gif?size=128&quality=lossless" width="20"> </sub> Beginner </h5>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -61,6 +61,6 @@
         
 </div>
 
-### :fire: My Stats :
+### <sub> <img src ="https://cdn.discordapp.com/emojis/798491622165053450.gif?size=128&quality=lossless" width="25"></sub> My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vichubenzene&theme=black-ice&hide_border=true)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichubenzene&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
