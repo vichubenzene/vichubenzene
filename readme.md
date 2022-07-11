@@ -13,7 +13,9 @@
   </a>
 </div>
 
-
+<div id="count" align="center">
+<img src="https://komarev.com/ghpvc/?username=vichubenzene&style=flat&color=blueviolet" alt=""/>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
