@@ -12,9 +12,7 @@
          <img src="https://img.shields.io/badge/hackerrank-1E9E1E?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank Badge"/>
   </a>
 </div>
-<div id="count" align="center">
-<img src="https://komarev.com/ghpvc/?username=vichubenzene&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
