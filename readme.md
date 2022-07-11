@@ -4,11 +4,11 @@
 </div>
 
 <div id="badges" align="center">
-       <a href="https://www.linkedin.com/in/viswanathan-s-606277221/">
+       <a href="https://www.linkedin.com/in/viswanathan-s-606277221/" target="_blank">
          <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkedlin Badge"/></a>
-      <a href="https://discord.gg/cyKAjwcZdB">
+      <a href="https://discord.gg/cyKAjwcZdB" target="_blank">
          <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/></a>
-      <a href="https://www.hackerrank.com/B3NZENE">
+      <a href="https://www.hackerrank.com/B3NZENE" target="_blank">
          <img src="https://img.shields.io/badge/hackerrank-1E9E1E?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank Badge"/>
   </a>
 </div>
