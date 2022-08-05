@@ -1,5 +1,5 @@
 # Viswanathan S <h3>@BENZENE</h3>
-<img src="https://discord.c99.nl/widget/theme-2/557578041908396033.png"/>
+
 <div id="header" align="center">
   <img src="https://imgur.com/Nf40izu.gif" width="100"/>
 </div>
@@ -59,3 +59,6 @@
 ### <sub> <img src ="https://cdn.discordapp.com/emojis/798491622165053450.gif?size=128&quality=lossless" width="25"></sub> My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vichubenzene&theme=black-ice&hide_border=true)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichubenzene&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### <sub> <img src ="https://cdn.discordapp.com/emojis/901733063690698752.gif?size=56&quality=lossless" width="25"></sub> Discord : <br>
+<img src="https://discord.c99.nl/widget/theme-2/557578041908396033.png"/>
