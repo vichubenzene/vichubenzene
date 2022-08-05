@@ -1,4 +1,5 @@
 # Viswanathan S <h3>@BENZENE</h3>
+<img src="https://discord.c99.nl/widget/theme-2/557578041908396033.png"/>
 <div id="header" align="center">
   <img src="https://imgur.com/Nf40izu.gif" width="100"/>
 </div>
