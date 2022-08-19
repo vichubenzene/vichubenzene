@@ -26,7 +26,7 @@
          
 - <sub> <img src="https://cdn.discordapp.com/emojis/945161070547456031.gif?size=128&quality=lossless" width="20"></sub> Currently pursing my B.tech on Computer and Communication Engineering 
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/907894435151507477.gif?size=56&quality=lossless" width="20"></sub>  Intrested in Software Testing and UI & UX design.
+- <sub> <img src="https://cdn.discordapp.com/emojis/907894435151507477.gif?size=56&quality=lossless" width="20"></sub>  Intrested in Software Engineering and UI & UX design.
 
 - <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="20"></sub> Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [Hackerrank](https://www.hackerrank.com/B3NZENE) on my free time
 
