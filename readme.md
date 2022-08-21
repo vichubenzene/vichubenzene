@@ -22,7 +22,7 @@
 </div>
 
 ### <sub> <img src="https://cdn.discordapp.com/emojis/950698979987976222.webp?size=128&quality=lossless" width="22"></sub> About Me :
--  <sub> <img src="https://cdn.discordapp.com/emojis/907893628637163520.gif?size=56&quality=lossless" width="20"></sub> Upcoming Full Stack Developer from India.
+-  <sub> <img src="https://cdn.discordapp.com/emojis/907893628637163520.gif?size=56&quality=lossless" width="20"></sub> Upcoming Developer from India.
          
 - <sub> <img src="https://cdn.discordapp.com/emojis/945161070547456031.gif?size=128&quality=lossless" width="20"></sub> Currently pursing my B.tech on Computer and Communication Engineering 
 
