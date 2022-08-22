@@ -1,7 +1,8 @@
 # Viswanathan S <h3>@BENZENE</h3>
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="10%" height="10%"/>
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="12%" height="12%"/>
+  <br> <strong>A coder with Glasses</strong><br>
 </div>
 
 <div id="badges" align="center">
