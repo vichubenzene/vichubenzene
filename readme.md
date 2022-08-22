@@ -1,7 +1,7 @@
 # Viswanathan S <h3>@BENZENE</h3>
 
 <div id="header" align="center">
-  <img src="https://imgur.com/Nf40izu.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="10%" height="10%"/>
 </div>
 
 <div id="badges" align="center">
