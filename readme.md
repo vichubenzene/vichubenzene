@@ -2,7 +2,8 @@
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="12%" height="12%"/>
-  <br> <strong>A Dual screen coder with Glasses</strong><br>
+  <br> <strong><i>A Dual screen coder with Glasses</i></strong><br>
+  
 </div>
 
 <div id="badges" align="center">
