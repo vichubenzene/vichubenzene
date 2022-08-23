@@ -1,8 +1,11 @@
 # Viswanathan S <h3>@BENZENE</h3>
 
+
+
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="12%" height="12%"/>
-  <br> <strong><i>A Dual screen coder with Glasses</i></strong><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82;+%F0%9D%93%98+%F0%9D%96%86%F0%9D%96%92+%F0%9D%93%A5%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%9C%F0%9D%96%86%F0%9D%96%93%F0%9D%96%86%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%86%F0%9D%96%93+%E2%9C%A9+%F0%9D%93%91%F0%9D%93%AE%F0%9D%93%B7%F0%9D%94%83%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AE" alt="Typing SVG" /></a><br>
+  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="17%" height="17%"/>
+  <br> <h4><strong><i>A Dual screen coder with Glasses</i></strong><br></h4>
   
 </div>
 
@@ -20,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=vichubenzene&style=flat&color=blueviolet" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="175"/>
 </div>
 
 ### <sub> <img src="https://cdn.discordapp.com/emojis/950698979987976222.webp?size=128&quality=lossless" width="22"></sub> About Me :
@@ -32,7 +35,9 @@
 
 - <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="20"></sub> Started doing [Leetcode](https://leetcode.com/BENZENE_KUN/) and [Hackerrank](https://www.hackerrank.com/B3NZENE) on my free time
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)</sub>
+- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>[![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:vichusathappan@gmail.com)</sub>
+
+
 
 ### <sub> <img src ="https://cdn.discordapp.com/emojis/872053560236445716.gif" width="25"> </sub> Skills :
 
