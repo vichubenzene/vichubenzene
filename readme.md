@@ -5,7 +5,7 @@
 <div id="header" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82;+%F0%9D%93%98+%F0%9D%96%86%F0%9D%96%92+%F0%9D%93%A5%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%9C%F0%9D%96%86%F0%9D%96%93%F0%9D%96%86%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%86%F0%9D%96%93+%E2%9C%A9+%F0%9D%93%91%F0%9D%93%AE%F0%9D%93%B7%F0%9D%94%83%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AE" alt="Typing SVG" /></a><br>
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="17%" height="17%"/>
-  <br> <h4><strong><i>A Dual screen coder with Glasses</i></strong><br></h4>
+  <br> <h4><strong><i>A Dual screen coder with Glasses</i></strong><br></h4><sub><img src="https://imgur.com/lVutBvx.gif" width="50"></sub>
   
 </div>
 
