@@ -10,9 +10,9 @@
 </div>
 
 <div id="badges" align="center">
-       <a href="https://www.linkedin.com/in/viswanathan-s-606277221/" target="_blank">
-         <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkedlin Badge"/></a>
-      <a href="https://discord.gg/cyKAjwcZdB" target="_blank">
+       <a href="https://leetcode.com/BENZENE_KUN/" target="_blank">
+         <img src="https://img.shields.io/badge/leetcode-gold?style=for-the-badge&logo=leetcode&logoColor=black" alt="linkedlin Badge"/></a>
+      <a href="[https://discord.gg/cyKAjwcZdB](https://discordapp.com/users/557578041908396033)" target="_blank">
          <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/></a>
       <a href="https://www.hackerrank.com/B3NZENE" target="_blank">
          <img src="https://img.shields.io/badge/hackerrank-1E9E1E?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank Badge"/>
@@ -34,7 +34,7 @@
 
 - <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="20"></sub> Started doing [Codechef](https://www.codechef.com/games/profile/benzene0606?tab=puzzle) and [Hackerrank](https://www.hackerrank.com/B3NZENE) on my free time
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>[![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:vichusathappan@gmail.com)</sub>
+- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>[![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:vichulight@gmail.com)</sub>
 
 
 
