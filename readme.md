@@ -12,7 +12,7 @@
 <div id="badges" align="center">
        <a href="https://leetcode.com/BENZENE_KUN/" target="_blank">
          <img src="https://img.shields.io/badge/leetcode-gold?style=for-the-badge&logo=leetcode&logoColor=black" alt="linkedlin Badge"/></a>
-      <a href="[https://discord.gg/cyKAjwcZdB](https://discordapp.com/users/557578041908396033)" target="_blank">
+      <a href="https://discordapp.com/users/557578041908396033" target="_blank">
          <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/></a>
       <a href="https://www.hackerrank.com/B3NZENE" target="_blank">
          <img src="https://img.shields.io/badge/hackerrank-1E9E1E?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank Badge"/>
