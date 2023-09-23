@@ -34,7 +34,7 @@
 
 - <sub> <img src="https://cdn.discordapp.com/emojis/907892586298085377.gif?size=56&quality=lossless" width="20"></sub> Started doing [Codechef](https://www.codechef.com/games/profile/benzene0606?tab=puzzle) and [Hackerrank](https://www.hackerrank.com/B3NZENE) on my free time
 
-- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>[![Gmail Badge](https://img.shields.io/badge/-vichusathappan@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:vichulight@gmail.com)</sub>
+- <sub> <img src="https://cdn.discordapp.com/emojis/895920700114755594.gif?size=56&quality=lossless" width="20"></sub> Reach me: <sub>[![Gmail Badge](https://img.shields.io/badge/-vichulight@gmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:vichulight@gmail.com)</sub>
 
 
 
